@@ -1,0 +1,16 @@
+{
+  "name": "iss-bot",
+  "version": "1.0.0",
+  "description": "an iss information bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nyedudevv",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "snekfetch": "^4.0.4"
+  }
+}
